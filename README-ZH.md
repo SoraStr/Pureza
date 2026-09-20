@@ -47,17 +47,21 @@ ByteDance Seedream 模型未经测试，目前尚不知晓。请谨慎使用。
 ### 提示词内容（中文，单图修改）
 
 '''
+
 请把这张图（图一）按照下文规则修改。
 不要使用墨线，请直接使用色块！保持主体在全图中心的位置和纯色背景。强化“尽可能使用色块表达、化繁为简”的中心思想。将原图使用的颜色自行总结成最少两种最多10种（请尽量往3种、5种、8种的档位上靠），重绘使用的颜色只能用刚才总结的这几种，重绘使用的颜色出现得越少越好，色块整合得越统一越好。
 画面完全由图形构成，没有文字、数字、字母、签名或水印；没有第二个人物；背景不出现渐变、场景或地平线；不画夸张的腮红与油亮高光；不性感化；整体干净、通透、飘逸。
+
 '''
 
 ### 提示词内容（英文，单图修改）
 
 '''
+
 Please color and modify the main subject of this image (Image 1). Do not use ink outlines — use blocks of color directly. Keep the subject centered in the overall composition and keep a solid flat-color background. Reinforce the central principle: "express as much as possible through blocks of color; simplify the complex."
 Summarize for yourself the colors used in the original image into no fewer than two and no more than ten (lean toward the tiers of 3, 5, or 8). The redraw may use only those summarized colors; the fewer times those colors appear, the better, and the more unified the merged color blocks, the better.
 The image is composed entirely of shapes — no text, numbers, letters, signatures, or watermarks; no second figure; no gradients, scenery, or horizon line in the background; no exaggerated blush or glossy highlights; no sexualization; overall clean, luminous, and flowing.
+
 '''
 
 ### 笔者的建议
