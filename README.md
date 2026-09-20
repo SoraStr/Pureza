@@ -30,7 +30,7 @@ If your image generation model distinguishes between positive and negative promp
 
 I recommend using it when the image's colors tend toward strong complementary contrast, and when merging secondary colors into the dominant colors would not affect the result.
 
-It's best not to use this prompt during the initial generation stage. The most recommended approach is to apply it in the final stage after several rounds of generation, or to use it on an image you already have.
+For the current version, it is best not to use this prompt during the initial generation stage. If you need one for the generation stage, a version of the prompt designed for that stage will be released later. The most recommended approach is to apply it in the final stage after several rounds of generation, or to use it on an image you already have.
 
 For AI image generation models to pair with this prompt, I recommend GPT Image 2, GPT Image 2.5 Flare, and GPT Image 2.5 Sunburst.
 
@@ -71,6 +71,7 @@ I recommend against using this prompt to make derivative modifications to an ori
 ### TODO
 
 - [ ] Universal skill
+- [ ] Generation-stage prompt
 - [ ] Bidirectional prompts
 - [ ] Seedream testing
 
