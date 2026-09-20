@@ -78,4 +78,4 @@ I recommend against using this prompt to make derivative modifications to an ori
 
 This prompt is released under the MIT open source license.
 
-Original author: 琦拉铃 (Kirarin)
+Original author: Kirarin
