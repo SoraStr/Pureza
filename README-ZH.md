@@ -65,7 +65,7 @@ The image is composed entirely of shapes — no text, numbers, letters, signatur
 '''
 
 ### 笔者的建议
-建议不要在无原图版权的情况下使用该提示词进行对原图的二次修改！这条约束并没有强制力，但是只是笔者的一点建议。
+建议不要在无原图版权的情况下使用该提示词进行对原图的商业化二次修改！这条约束并没有强制力，但是只是笔者的一点建议。
 
 ### TODO 代办
 - [ ] 普适性 Skill

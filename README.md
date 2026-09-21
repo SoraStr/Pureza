@@ -66,7 +66,7 @@ The image is composed entirely of shapes — no text, numbers, letters, signatur
 
 ### Author's note
 
-I recommend against using this prompt to make derivative modifications to an original image when you do not hold the copyright to it. This restriction carries no force — it is simply a suggestion from the author.
+I recommend against using this prompt to make commercial derivative modifications to an original image when you do not hold the copyright to it. This restriction carries no force — it is simply a suggestion from the author.
 
 ### TODO
 
